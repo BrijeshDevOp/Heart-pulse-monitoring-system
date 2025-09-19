@@ -7,21 +7,18 @@
 This project creates a real-time health monitoring device that measures:
 - **Heart Rate (BPM)** - Beats per minute with live waveform display
 - **Blood Oxygen Saturation (SPO2)** - Oxygen saturation percentage
-- **Temperature** - Ambient temperature in Celsius
 
 ## Hardware Components
 
 - **ESP8266** - WiFi-enabled microcontroller
 - **MAX30102** - Heart rate and blood oxygen sensor
 - **SSD1306 OLED Display** - 128x32 pixel display
-- **DS18B20** - Temperature sensor
 - **Jumper wires and breadboard**
 
 ## Features
 
 - ✅ Real-time heart rate monitoring
 - ✅ Blood oxygen saturation measurement
-- ✅ Temperature display
 - ✅ Live pulse waveform visualization
 - ✅ Visual heartbeat LED indicator
 - ✅ Advanced signal filtering for accuracy
