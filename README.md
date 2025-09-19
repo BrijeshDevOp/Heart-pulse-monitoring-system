@@ -1,6 +1,6 @@
 # Heart Pulse and SPO2 Monitoring System
 
-![Circuit Diagram](assets/CIRCUITE.png)
+![Circuit Diagram](assets/IMAGE.png)
 
 ## Overview
 
@@ -43,7 +43,7 @@ This project creates a real-time health monitoring device that measures:
 ├── ssd1306h.h/.cpp        # Display driver
 ├── font.h                 # Font definitions
 └── assets/
-    └── CIRCUITE.png       # Circuit diagram
+    └── IMAGE.png          # Circuit diagram
 ```
 
 ## Installation
